@@ -13,7 +13,7 @@
             "last_commit": "2026-03-04T13:37:12Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 54713
+            "stars": 54739
           }
         },
         {
@@ -42,10 +42,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-03-26T02:52:00Z",
+            "last_commit": "2026-03-26T22:23:02Z",
             "owner": "rstudio",
             "repo": "rstudio",
-            "stars": 4975
+            "stars": 4976
           }
         },
         {
@@ -126,7 +126,7 @@
                 "last_commit": "2026-03-16T04:44:58Z",
                 "owner": "shd101wyy",
                 "repo": "markdown-preview-enhanced",
-                "stars": 4357
+                "stars": 4356
               }
             }
           ],
@@ -190,7 +190,7 @@
             "last_commit": "2025-12-01T21:34:03Z",
             "owner": "markdownlint",
             "repo": "markdownlint",
-            "stars": 2021
+            "stars": 2020
           }
         },
         {
@@ -200,7 +200,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-18T20:40:53Z",
+            "last_commit": "2026-03-26T17:46:35Z",
             "owner": "amperser",
             "repo": "proselint",
             "stars": 4521
@@ -302,7 +302,7 @@
             "last_commit": "2026-02-08T19:24:52Z",
             "owner": "Wandmalfarbe",
             "repo": "pandoc-latex-template",
-            "stars": 7060
+            "stars": 7061
           }
         },
         {
@@ -331,7 +331,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-03-26T00:03:11Z",
+            "last_commit": "2026-03-27T00:02:01Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4571
@@ -360,7 +360,7 @@
             "last_commit": "2024-08-21T03:06:19Z",
             "owner": "BubuAnabelas",
             "repo": "awesome-markdown",
-            "stars": 919
+            "stars": 918
           }
         },
         {
@@ -378,7 +378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-26T04:23:24.197Z",
+    "last_updated": "2026-03-27T04:24:23.937Z",
     "original_repository": "writing-resources/awesome-scientific-writing",
     "source_repository": "v1nvn/enhansome-scientific-writing",
     "source_repository_description": null,
