@@ -1,4 +1,4 @@
-# Awesome Scientific Writing [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 451,626 | 🐛 59 | 📅 2026-04-02 with stars
+# Awesome Scientific Writing [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 451,968 | 🐛 59 | 📅 2026-04-02 with stars
 
 > Scientific writing can extend beyond LaTeX, made possible by formats,
 > such as
@@ -26,14 +26,14 @@ document**.
 
 ## Word Processors
 
-* [Marktext](https://github.com/marktext/marktext) ⭐ 54,887 | 🐛 1,419 | 🌐 JavaScript | 📅 2026-03-04 - Markdown text editor.
-* [R Studio](https://github.com/rstudio/rstudio) ⭐ 4,981 | 🐛 1,379 | 🌐 Java | 📅 2026-04-03 - IDE for R.
-  * [bookdown](https://github.com/rstudio/bookdown) ⭐ 4,025 | 🐛 231 | 🌐 JavaScript | 📅 2026-01-16 - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
+* [Marktext](https://github.com/marktext/marktext) ⭐ 54,904 | 🐛 1,419 | 🌐 JavaScript | 📅 2026-03-04 - Markdown text editor.
+* [R Studio](https://github.com/rstudio/rstudio) ⭐ 4,982 | 🐛 1,379 | 🌐 Java | 📅 2026-04-03 - IDE for R.
+  * [bookdown](https://github.com/rstudio/bookdown) ⭐ 4,027 | 🐛 231 | 🌐 JavaScript | 📅 2026-01-16 - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
   * [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown :bookmark: :link:.
 * [Visual Studio Code](https://code.visualstudio.com/) - Popular IDE with Markdown support.
   * [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) ⭐ 4,363 | 🐛 210 | 🌐 HTML | 📅 2026-03-16 - Pandoc
     integration and utilities.
-  * [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) ⭐ 3,200 | 🐛 438 | 🌐 TypeScript | 📅 2025-03-09 - Extension for enhanced
+  * [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) ⭐ 3,201 | 🐛 438 | 🌐 TypeScript | 📅 2025-03-09 - Extension for enhanced
     Markdown support in VSCode, such as preview and auto completion to name a few.
 * [Vim](https://www.vim.org/) - Command line text editor.
   * [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) ⭐ 968 | 🐛 102 | 🌐 Vim Script | 📅 2025-11-07 - Pandoc integration and utilities for Vim.
@@ -90,7 +90,7 @@ Supplementary files and tools.
 * [pandoc](https://pandoc.org/MANUAL) - Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
   library :bookmark: :link:.
-  * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) ⭐ 43,083 | 🐛 1,057 | 🌐 Haskell | 📅 2026-04-02 - List of
+  * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) ⭐ 43,095 | 🐛 1,057 | 🌐 Haskell | 📅 2026-04-04 - List of
     addons to pandoc which implement extra features such as citations and
     cross-references.
   * [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
@@ -101,7 +101,7 @@ Supplementary files and tools.
 
 * [Vale](https://github.com/errata-ai/vale) ⭐ 5,321 | 🐛 98 | 🌐 Go | 📅 2026-03-20 - Free, open-source linter for
   prose built with speed and extensibility in mind.
-* [write-good](https://github.com/btford/write-good) ⭐ 5,065 | 🐛 25 | 🌐 JavaScript | 📅 2025-03-10 - Naive linter for English
+* [write-good](https://github.com/btford/write-good) ⭐ 5,066 | 🐛 25 | 🌐 JavaScript | 📅 2025-03-10 - Naive linter for English
   prose.
 * [proselint](https://github.com/amperser/proselint) ⭐ 4,517 | 🐛 248 | 🌐 JavaScript | 📅 2026-03-26 - Linter for prose.
 * [Markdown lint tool](https://github.com/markdownlint/markdownlint) ⭐ 2,025 | 🐛 114 | 🌐 Ruby | 📅 2026-04-02 - Markdown linter.
@@ -129,7 +129,7 @@ Reusable minimalist examples.
 
 * [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) ⭐ 7,067 | 🐛 117 | 🌐 Shell | 📅 2026-02-08 - Clean academic pandoc LaTeX template.
 * [Template for writing a PhD thesis in
-  Markdown](https://github.com/tompollard/phd_thesis_markdown#readme) ⭐ 1,255 | 🐛 42 | 🌐 HTML | 📅 2023-05-23 - Clean
+  Markdown](https://github.com/tompollard/phd_thesis_markdown#readme) ⭐ 1,256 | 🐛 42 | 🌐 HTML | 📅 2023-05-23 - Clean
   organization of files to provide a framework for writing a PhD thesis in
   mostly Markdown with a little bit of LaTeX, and compiled with Pandoc.
 * [bookdown-demo](https://github.com/rstudio/bookdown-demo/#readme) ⭐ 531 | 🐛 14 | 🌐 CSS | 📅 2024-10-23 - Minimal
@@ -155,8 +155,8 @@ How to generate articles and presentations for scientific purposes.
 
 ## Other Lists
 
-* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion) ⭐ 4,573 | 🐛 7 | 📅 2026-04-04
-* [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme) ⭐ 1,607 | 🐛 2 | 📅 2026-03-22
+* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion) ⭐ 4,573 | 🐛 7 | 📅 2026-04-05
+* [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme) ⭐ 1,608 | 🐛 2 | 📅 2026-03-22
 * [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme) ⭐ 917 | 🐛 37 | 📅 2024-08-21
 * [Delightful Open Science](https://codeberg.org/teaserbot-labs/delightful-open-science)
 
