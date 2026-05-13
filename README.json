@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-11T11:36:49Z",
+            "last_commit": "2026-05-13T04:18:49Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 55992
+            "stars": 56020
           }
         },
         {
@@ -28,7 +28,7 @@
                 "last_commit": "2026-05-06T00:04:30Z",
                 "owner": "rstudio",
                 "repo": "bookdown",
-                "stars": 4042
+                "stars": 4044
               }
             },
             {
@@ -42,10 +42,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-12T03:41:27Z",
+            "last_commit": "2026-05-12T22:33:08Z",
             "owner": "rstudio",
             "repo": "rstudio",
-            "stars": 4992
+            "stars": 4994
           }
         },
         {
@@ -73,7 +73,7 @@
                 "last_commit": "2025-11-07T12:41:19Z",
                 "owner": "vim-pandoc",
                 "repo": "vim-pandoc",
-                "stars": 962
+                "stars": 963
               }
             },
             {
@@ -86,7 +86,7 @@
                 "last_commit": "2025-09-22T20:59:47Z",
                 "owner": "vim-pandoc",
                 "repo": "vim-pandoc-syntax",
-                "stars": 425
+                "stars": 426
               }
             }
           ],
@@ -126,7 +126,7 @@
                 "last_commit": "2026-05-05T01:40:20Z",
                 "owner": "shd101wyy",
                 "repo": "markdown-preview-enhanced",
-                "stars": 4384
+                "stars": 4385
               }
             }
           ],
@@ -203,7 +203,7 @@
             "last_commit": "2026-04-21T16:37:31Z",
             "owner": "amperser",
             "repo": "proselint",
-            "stars": 4528
+            "stars": 4529
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-01-05T19:25:40Z",
             "owner": "remarkjs",
             "repo": "remark-lint",
-            "stars": 1029
+            "stars": 1030
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-05-01T19:23:43Z",
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 5380
+            "stars": 5381
           }
         },
         {
@@ -302,7 +302,7 @@
             "last_commit": "2026-02-08T19:24:52Z",
             "owner": "Wandmalfarbe",
             "repo": "pandoc-latex-template",
-            "stars": 7129
+            "stars": 7131
           }
         },
         {
@@ -331,10 +331,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-12T00:13:30Z",
+            "last_commit": "2026-05-13T00:14:38Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4604
+            "stars": 4605
           }
         },
         {
@@ -347,7 +347,7 @@
             "last_commit": "2026-03-22T20:25:36Z",
             "owner": "egeerardyn",
             "repo": "awesome-LaTeX",
-            "stars": 1623
+            "stars": 1624
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2024-08-21T03:06:19Z",
             "owner": "BubuAnabelas",
             "repo": "awesome-markdown",
-            "stars": 925
+            "stars": 924
           }
         },
         {
@@ -378,7 +378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-12T05:29:38.101Z",
+    "last_updated": "2026-05-13T05:39:57.312Z",
     "original_repository": "writing-resources/awesome-scientific-writing",
     "source_repository": "v1nvn/enhansome-scientific-writing",
     "source_repository_description": null,
