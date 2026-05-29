@@ -1,4 +1,4 @@
-# Awesome Scientific Writing [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 470,666 | 🐛 78 | 📅 2026-05-05 with stars
+# Awesome Scientific Writing [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 470,982 | 🐛 79 | 📅 2026-05-05 with stars
 
 > Scientific writing can extend beyond LaTeX, made possible by formats,
 > such as
@@ -26,14 +26,14 @@ document**.
 
 ## Word Processors
 
-* [Marktext](https://github.com/marktext/marktext) ⭐ 56,551 | 🐛 1,032 | 🌐 TypeScript | 📅 2026-05-27 - Markdown text editor.
-* [R Studio](https://github.com/rstudio/rstudio) ⭐ 5,006 | 🐛 1,348 | 🌐 Java | 📅 2026-05-28 - IDE for R.
-  * [bookdown](https://github.com/rstudio/bookdown) ⭐ 4,050 | 🐛 231 | 🌐 JavaScript | 📅 2026-05-26 - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
+* [Marktext](https://github.com/marktext/marktext) ⭐ 56,592 | 🐛 1,037 | 🌐 TypeScript | 📅 2026-05-29 - Markdown text editor.
+* [R Studio](https://github.com/rstudio/rstudio) ⭐ 5,009 | 🐛 1,340 | 🌐 Java | 📅 2026-05-29 - IDE for R.
+  * [bookdown](https://github.com/rstudio/bookdown) ⭐ 4,049 | 🐛 231 | 🌐 JavaScript | 📅 2026-05-26 - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
   * [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown :bookmark: :link:.
 * [Visual Studio Code](https://code.visualstudio.com/) - Popular IDE with Markdown support.
   * [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) ⭐ 4,397 | 🐛 209 | 🌐 HTML | 📅 2026-05-05 - Pandoc
     integration and utilities.
-  * [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) ⭐ 3,234 | 🐛 448 | 🌐 TypeScript | 📅 2026-04-16 - Extension for enhanced
+  * [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) ⭐ 3,234 | 🐛 447 | 🌐 TypeScript | 📅 2026-04-16 - Extension for enhanced
     Markdown support in VSCode, such as preview and auto completion to name a few.
 * [Vim](https://www.vim.org/) - Command line text editor.
   * [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) ⭐ 964 | 🐛 102 | 🌐 Vim Script | 📅 2025-11-07 - Pandoc integration and utilities for Vim.
@@ -90,7 +90,7 @@ Supplementary files and tools.
 * [pandoc](https://pandoc.org/MANUAL) - Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
   library :bookmark: :link:.
-  * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) ⭐ 44,394 | 🐛 1,067 | 🌐 Haskell | 📅 2026-05-27 - List of
+  * [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) ⭐ 44,425 | 🐛 1,068 | 🌐 Haskell | 📅 2026-05-27 - List of
     addons to pandoc which implement extra features such as citations and
     cross-references.
   * [Panflute](http://scorreia.com/software/panflute/) - Pythonic alternative
@@ -99,7 +99,7 @@ Supplementary files and tools.
 
 ## Spell Checking and Linting
 
-* [Vale](https://github.com/errata-ai/vale) ⭐ 5,408 | 🐛 101 | 🌐 Go | 📅 2026-05-21 - Free, open-source linter for
+* [Vale](https://github.com/errata-ai/vale) ⭐ 5,412 | 🐛 101 | 🌐 Go | 📅 2026-05-21 - Free, open-source linter for
   prose built with speed and extensibility in mind.
 * [write-good](https://github.com/btford/write-good) ⭐ 5,072 | 🐛 24 | 🌐 JavaScript | 📅 2025-03-10 - Naive linter for English
   prose.
@@ -155,7 +155,7 @@ How to generate articles and presentations for scientific purposes.
 
 ## Other Lists
 
-* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion) ⭐ 4,618 | 🐛 15 | 📅 2026-05-28
+* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion) ⭐ 4,618 | 🐛 15 | 📅 2026-05-29
 * [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme) ⭐ 1,629 | 🐛 6 | 📅 2026-03-22
 * [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme) ⭐ 925 | 🐛 45 | 📅 2024-08-21
 * [Delightful Open Science](https://codeberg.org/teaserbot-labs/delightful-open-science)
