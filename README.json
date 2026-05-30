@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-29T03:51:37Z",
+            "last_commit": "2026-05-29T14:09:13Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 56592
+            "stars": 56636
           }
         },
         {
@@ -42,10 +42,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-29T05:24:54Z",
+            "last_commit": "2026-05-30T00:28:23Z",
             "owner": "rstudio",
             "repo": "rstudio",
-            "stars": 5009
+            "stars": 5012
           }
         },
         {
@@ -187,7 +187,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-04-19T02:08:39Z",
+            "last_commit": "2026-05-29T19:25:39Z",
             "owner": "markdownlint",
             "repo": "markdownlint",
             "stars": 2051
@@ -216,7 +216,7 @@
             "last_commit": "2026-01-05T19:25:40Z",
             "owner": "remarkjs",
             "repo": "remark-lint",
-            "stars": 1033
+            "stars": 1035
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2025-03-10T04:04:12Z",
             "owner": "btford",
             "repo": "write-good",
-            "stars": 5072
+            "stars": 5074
           }
         }
       ],
@@ -302,7 +302,7 @@
             "last_commit": "2026-02-08T19:24:52Z",
             "owner": "Wandmalfarbe",
             "repo": "pandoc-latex-template",
-            "stars": 7151
+            "stars": 7153
           }
         },
         {
@@ -331,7 +331,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-29T00:18:30Z",
+            "last_commit": "2026-05-30T00:17:26Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4618
@@ -360,7 +360,7 @@
             "last_commit": "2024-08-21T03:06:19Z",
             "owner": "BubuAnabelas",
             "repo": "awesome-markdown",
-            "stars": 925
+            "stars": 927
           }
         },
         {
@@ -378,7 +378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-29T06:02:55.782Z",
+    "last_updated": "2026-05-30T05:39:23.060Z",
     "original_repository": "writing-resources/awesome-scientific-writing",
     "source_repository": "v1nvn/enhansome-scientific-writing",
     "source_repository_description": null,
