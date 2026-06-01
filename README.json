@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-31T04:07:29Z",
+            "last_commit": "2026-05-31T14:34:28Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 56670
+            "stars": 56716
           }
         },
         {
@@ -42,7 +42,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-30T23:58:32Z",
+            "last_commit": "2026-06-01T01:59:08Z",
             "owner": "rstudio",
             "repo": "rstudio",
             "stars": 5012
@@ -203,7 +203,7 @@
             "last_commit": "2026-04-21T16:37:31Z",
             "owner": "amperser",
             "repo": "proselint",
-            "stars": 4536
+            "stars": 4537
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-05-21T22:54:51Z",
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 5413
+            "stars": 5415
           }
         },
         {
@@ -299,10 +299,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-02-08T19:24:52Z",
+            "last_commit": "2026-05-31T19:29:01Z",
             "owner": "Wandmalfarbe",
             "repo": "pandoc-latex-template",
-            "stars": 7161
+            "stars": 7164
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2023-05-23T16:12:54Z",
             "owner": "tompollard",
             "repo": "phd_thesis_markdown",
-            "stars": 1262
+            "stars": 1263
           }
         }
       ],
@@ -331,10 +331,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-31T00:15:21Z",
+            "last_commit": "2026-06-01T00:15:48Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
-            "stars": 4619
+            "stars": 4621
           }
         },
         {
@@ -378,7 +378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-31T06:07:15.402Z",
+    "last_updated": "2026-06-01T06:43:50.308Z",
     "original_repository": "writing-resources/awesome-scientific-writing",
     "source_repository": "v1nvn/enhansome-scientific-writing",
     "source_repository_description": null,
