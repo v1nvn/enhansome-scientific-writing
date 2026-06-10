@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-09T03:31:34Z",
+            "last_commit": "2026-06-10T05:55:24Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 57076
+            "stars": 57130
           }
         },
         {
@@ -42,10 +42,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-09T03:53:33Z",
+            "last_commit": "2026-06-10T05:05:12Z",
             "owner": "rstudio",
             "repo": "rstudio",
-            "stars": 5014
+            "stars": 5013
           }
         },
         {
@@ -73,7 +73,7 @@
                 "last_commit": "2025-11-07T12:41:19Z",
                 "owner": "vim-pandoc",
                 "repo": "vim-pandoc",
-                "stars": 964
+                "stars": 965
               }
             },
             {
@@ -86,7 +86,7 @@
                 "last_commit": "2025-09-22T20:59:47Z",
                 "owner": "vim-pandoc",
                 "repo": "vim-pandoc-syntax",
-                "stars": 426
+                "stars": 427
               }
             }
           ],
@@ -126,7 +126,7 @@
                 "last_commit": "2026-05-05T01:40:20Z",
                 "owner": "shd101wyy",
                 "repo": "markdown-preview-enhanced",
-                "stars": 4399
+                "stars": 4400
               }
             }
           ],
@@ -252,7 +252,7 @@
             "last_commit": "2026-06-04T19:35:21Z",
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 5436
+            "stars": 5442
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2025-03-10T04:04:12Z",
             "owner": "btford",
             "repo": "write-good",
-            "stars": 5075
+            "stars": 5076
           }
         }
       ],
@@ -378,7 +378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-09T05:59:05.338Z",
+    "last_updated": "2026-06-10T06:12:03.184Z",
     "original_repository": "writing-resources/awesome-scientific-writing",
     "source_repository": "v1nvn/enhansome-scientific-writing",
     "source_repository_description": null,
