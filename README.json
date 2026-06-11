@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-10T05:55:24Z",
+            "last_commit": "2026-06-11T03:50:39Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 57130
+            "stars": 57204
           }
         },
         {
@@ -42,10 +42,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-10T05:05:12Z",
+            "last_commit": "2026-06-11T05:57:57Z",
             "owner": "rstudio",
             "repo": "rstudio",
-            "stars": 5013
+            "stars": 5012
           }
         },
         {
@@ -113,7 +113,7 @@
                 "last_commit": "2026-04-16T07:05:24Z",
                 "owner": "yzhang-gh",
                 "repo": "vscode-markdown",
-                "stars": 3240
+                "stars": 3243
               }
             },
             {
@@ -138,7 +138,7 @@
             "last_commit": "2026-04-16T07:05:24Z",
             "owner": "yzhang-gh",
             "repo": "vscode-markdown",
-            "stars": 3240
+            "stars": 3243
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-06-04T19:35:21Z",
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 5442
+            "stars": 5447
           }
         },
         {
@@ -302,7 +302,7 @@
             "last_commit": "2026-05-31T19:29:01Z",
             "owner": "Wandmalfarbe",
             "repo": "pandoc-latex-template",
-            "stars": 7174
+            "stars": 7175
           }
         },
         {
@@ -331,7 +331,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-06-09T00:15:45Z",
+            "last_commit": "2026-06-11T00:22:27Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4628
@@ -378,7 +378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-10T06:12:03.184Z",
+    "last_updated": "2026-06-11T06:38:44.469Z",
     "original_repository": "writing-resources/awesome-scientific-writing",
     "source_repository": "v1nvn/enhansome-scientific-writing",
     "source_repository_description": null,
