@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-12T06:17:07Z",
+            "last_commit": "2026-06-13T03:01:49Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 57256
+            "stars": 57298
           }
         },
         {
@@ -42,10 +42,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-12T05:19:48Z",
+            "last_commit": "2026-06-13T05:54:52Z",
             "owner": "rstudio",
             "repo": "rstudio",
-            "stars": 5012
+            "stars": 5013
           }
         },
         {
@@ -110,10 +110,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-04-16T07:05:24Z",
+                "last_commit": "2026-06-13T04:49:10Z",
                 "owner": "yzhang-gh",
                 "repo": "vscode-markdown",
-                "stars": 3244
+                "stars": 3245
               }
             },
             {
@@ -126,7 +126,7 @@
                 "last_commit": "2026-05-05T01:40:20Z",
                 "owner": "shd101wyy",
                 "repo": "markdown-preview-enhanced",
-                "stars": 4399
+                "stars": 4401
               }
             }
           ],
@@ -135,10 +135,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-16T07:05:24Z",
+            "last_commit": "2026-06-13T04:49:10Z",
             "owner": "yzhang-gh",
             "repo": "vscode-markdown",
-            "stars": 3244
+            "stars": 3245
           }
         },
         {
@@ -203,7 +203,7 @@
             "last_commit": "2026-06-07T02:15:15Z",
             "owner": "amperser",
             "repo": "proselint",
-            "stars": 4538
+            "stars": 4539
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-01-05T19:25:40Z",
             "owner": "remarkjs",
             "repo": "remark-lint",
-            "stars": 1036
+            "stars": 1037
           }
         },
         {
@@ -249,10 +249,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-06-04T19:35:21Z",
+            "last_commit": "2026-06-12T21:02:58Z",
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 5451
+            "stars": 5452
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2025-03-10T04:04:12Z",
             "owner": "btford",
             "repo": "write-good",
-            "stars": 5076
+            "stars": 5077
           }
         }
       ],
@@ -378,7 +378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-12T06:23:00.787Z",
+    "last_updated": "2026-06-13T06:06:33.166Z",
     "original_repository": "writing-resources/awesome-scientific-writing",
     "source_repository": "v1nvn/enhansome-scientific-writing",
     "source_repository_description": null,
