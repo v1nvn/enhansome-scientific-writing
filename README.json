@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-14T05:45:56Z",
+            "last_commit": "2026-06-15T06:19:10Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 57333
+            "stars": 57379
           }
         },
         {
@@ -42,10 +42,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-14T03:02:08Z",
+            "last_commit": "2026-06-15T06:34:08Z",
             "owner": "rstudio",
             "repo": "rstudio",
-            "stars": 5013
+            "stars": 5014
           }
         },
         {
@@ -190,7 +190,7 @@
             "last_commit": "2026-06-05T22:41:38Z",
             "owner": "markdownlint",
             "repo": "markdownlint",
-            "stars": 2055
+            "stars": 2057
           }
         },
         {
@@ -203,7 +203,7 @@
             "last_commit": "2026-06-13T12:13:31Z",
             "owner": "amperser",
             "repo": "proselint",
-            "stars": 4540
+            "stars": 4541
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-06-12T21:02:58Z",
             "owner": "vale-cli",
             "repo": "vale",
-            "stars": 5454
+            "stars": 5459
           }
         },
         {
@@ -331,7 +331,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-06-14T00:18:59Z",
+            "last_commit": "2026-06-15T00:20:54Z",
             "owner": "markusschanta",
             "repo": "awesome-jupyter",
             "stars": 4629
@@ -378,7 +378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-14T06:24:06.542Z",
+    "last_updated": "2026-06-15T07:06:31.764Z",
     "original_repository": "writing-resources/awesome-scientific-writing",
     "source_repository": "v1nvn/enhansome-scientific-writing",
     "source_repository_description": null,
